@@ -1,8 +1,9 @@
 # CSS Boxing Assignment - Web Development (300L)
-## (MATRIC: 2782 - NAME: BOLAJI OLALEKAN OLAMIDE)
+## MATRIC: 2782 
+## NAME: BOLAJI OLALEKAN OLAMIDE
 
 # Overview
-In this assignment, I explore the concept of "boxing" in CSS. This includes the CSS box model, layout, margins, padding, and borders. The goal is to understand how elements are positioned and styled in a webpage layout. I create a simple web page using HTML and CSS, demonstrating your understanding of these concepts.
+In this assignment, I explore the concept of "boxing" in CSS. This includes the CSS box model, layout, margins, padding, and borders. The goal is to understand how elements are positioned and styled in a webpage layout. I create a simple web page using HTML and CSS, demonstrating my understanding of these concepts.
 
 # Learning Objectives
 By completing this assignment, I :
